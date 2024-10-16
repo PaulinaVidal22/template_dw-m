@@ -1,0 +1,16 @@
+.item-details {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+  .item-name {
+    color : #DBD994;
+  }
+
+  .description-field, .A-field, .B-field, .date-field, .option-field, .multi-field, .tof-field, .textarea-field {
+    margin: 1rem 5px 1rem 20px ;
+    color:#FBF6F4;
+  }
+
+

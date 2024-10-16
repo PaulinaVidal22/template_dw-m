@@ -1,0 +1,18 @@
+/* button {
+  margin: 5px;
+} */
+
+.back-button {
+    margin: 5px;
+    color:  #DBD994;
+    background-color: #181849;
+    border-color:  #DBD994;
+
+  }
+
+  .back-button:hover {
+    color: #346C9D;
+    background-color:  #DBD994;
+    border-color: #346C9D;
+
+  }

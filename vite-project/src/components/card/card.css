@@ -1,0 +1,24 @@
+.card {
+    width: 100%; 
+    padding: 0.2rem;
+    margin: 1rem 0.2rem 0.2rem 0.2rem ;
+    background-color: #346C9D;
+    border-color: #5789C7;
+    border-radius: 8px; 
+    height: auto;
+    
+}
+
+.clickable-card {
+    cursor: pointer;
+}
+
+.clickable-card:hover {
+    background-color: #181849;
+}
+
+.card-title {
+    font-weight: bold; 
+    margin: 0%; 
+}
+

@@ -1,0 +1,11 @@
+.details-button {
+    color:#FBF6F4;
+    background-color: #DBD994;
+    border-color: #FBF6F4;
+}
+
+.details-button:hover{
+    color: #5789C7;
+    border-color: #5789C7;;
+    
+}

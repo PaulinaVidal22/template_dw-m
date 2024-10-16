@@ -1,0 +1,13 @@
+.add-button {
+    color:  #DBD994;
+    background-color: #181849;
+    border-color:  #DBD994;
+
+  }
+
+  .add-button:hover {
+    color: #5789C7;
+    background-color:  #DBD994;
+    border-color: #5789C7;
+
+  }

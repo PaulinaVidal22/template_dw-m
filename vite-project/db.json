@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Game A",
+      "description": "First game in the list",
+      "number": 5,
+      "categories": "Strategy/Adventure",
+      "date": "2024-01-15",
+      "option": "option1",
+      "multiselect": [
+        "a",
+        "c"
+      ],
+      "range": 8,
+      "trueOrFalse": "Option 1",
+      "textarea": "This game focuses on strategic gameplay."
+    },
+    {
+      "id": "2",
+      "title": "Game B",
+      "description": "Second game with action elements",
+      "number": 10,
+      "categories": "Action/Multiplayer",
+      "date": "2024-02-20",
+      "option": "option2",
+      "multiselect": [
+        "b"
+      ],
+      "range": 6,
+      "trueOrFalse": "Option 2",
+      "textarea": "High-paced action game."
+    },
+    {
+      "id": "3",
+      "title": "Game C",
+      "description": "Second game with action elements",
+      "number": 10,
+      "categories": "Action/Multiplayer",
+      "date": "2024-02-20",
+      "option": "option2",
+      "multiselect": [
+        "b"
+      ],
+      "range": 6,
+      "trueOrFalse": "Option 2",
+      "textarea": "High-paced action game."
+    },
+    {
+      "id": "3",
+      "title": "Game C",
+      "description": "Second game with action elements",
+      "number": 10,
+      "categories": "Action/Multiplayer",
+      "date": "2024-02-20",
+      "option": "option2",
+      "multiselect": [
+        "b"
+      ],
+      "range": 6,
+      "trueOrFalse": "Option 2",
+      "textarea": "High-paced action game."
+    },
+    {
+      "id": "7a5a",
+      "title": "",
+      "description": "",
+      "number": null,
+      "categories": "",
+      "date": "",
+      "option": "",
+      "multiselect": [],
+      "range": 5,
+      "trueOrFalse": "",
+      "textarea": ""
+    }
+  ]
+}
